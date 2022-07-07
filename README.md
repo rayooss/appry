@@ -1,2 +1,3 @@
-# appry
-资源仓库，第一弹
+# Github资源仓库
+
+这里是https://rayo.cc/blog的Github的资源仓库！
